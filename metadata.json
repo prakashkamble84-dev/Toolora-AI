@@ -1,0 +1,7 @@
+{
+  "name": "Toolora AI",
+  "description": "Create. Generate. Automate. Modern AI workspace for high-quality text, image, voice, and video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
